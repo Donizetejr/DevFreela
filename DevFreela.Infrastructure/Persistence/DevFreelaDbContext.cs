@@ -1,7 +1,5 @@
 ﻿using DevFreela.Core.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
 using System.Reflection;
 
 namespace DevFreela.Infrastructure.Persistence
@@ -10,7 +8,7 @@ namespace DevFreela.Infrastructure.Persistence
     {
         public DevFreelaDbContext(DbContextOptions<DevFreelaDbContext> options) : base(options)
         {
-           
+            
         }
 
         public DbSet<Project> Projects { get; set; }

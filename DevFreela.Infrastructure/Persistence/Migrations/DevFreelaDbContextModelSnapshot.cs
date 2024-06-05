@@ -169,7 +169,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                         .IsRequired();
 
                     b.HasOne("DevFreela.Core.Entities.User", "Freelancer")
-                        .WithMany("FreelancerProjects")
+                        .WithMany("FreelanceProjects")
                         .HasForeignKey("IdFreelancer")
                         .OnDelete(DeleteBehavior.Restrict)
                         .IsRequired();
@@ -222,7 +222,7 @@ namespace DevFreela.Infrastructure.Persistence.Migrations
                 {
                     b.Navigation("Comments");
 
-                    b.Navigation("FreelancerProjects");
+                    b.Navigation("FreelanceProjects");
 
                     b.Navigation("OwnedProjects");
 
