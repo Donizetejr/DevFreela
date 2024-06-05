@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\queries\\getprojectbyid\\getprojectbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getprojectbyid\\getprojectbyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\queries\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getuser\\getuserqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\queries\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getuser\\getuserquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\viewmodels\\skillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\viewmodels\\skillviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239C302D-1247-43FA-B12F-59FCE349E927}|DevFreela.API\\DevFreela.API.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239C302D-1247-43FA-B12F-59FCE349E927}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getallprojects\\getallprojectsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\viewmodels\\projectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\viewmodels\\projectdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28472D8D-BF2D-4FB8-945A-3CF5523DC997}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.infrastructure\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28472D8D-BF2D-4FB8-945A-3CF5523DC997}|DevFreela.Infrastructure\\DevFreela.Infrastructure.csproj|solutionrelative:devfreela.infrastructure\\persistence\\devfreeladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2900659B-4BC6-455D-95E2-C462CC7FC06A}|DevFreela.Core\\DevFreela.Core.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2900659B-4BC6-455D-95E2-C462CC7FC06A}|DevFreela.Core\\DevFreela.Core.csproj|solutionrelative:devfreela.core\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|c:\\users\\adsdo\\onedrive\\documentos\\mentoriadotnet\\formacao aspnet core\\devfreela\\devfreela.application\\queries\\getallprojects\\getallprojectsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AF59CC9-53E6-4196-BA85-14EE6326D17E}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\queries\\getallprojects\\getallprojectsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +58,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProjectDetailsViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
-              "RelativeDocumentMoniker": "DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
-              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
-              "RelativeToolTip": "DevFreela.Application\\ViewModels\\ProjectDetailsViewModel.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAeAAAA",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxcAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:52:44.734Z",
+              "WhenOpened": "2024-06-05T01:04:00.558Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProjectService.cs",
-              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
-              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
-              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
-              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAswFcAAAAkAAAA",
+              "DocumentIndex": 1,
+              "Title": "GetProjectByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "RelativeToolTip": "DevFreela.Application\\Queries\\GetProjectById\\GetProjectByIdQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:51:06.535Z",
+              "WhenOpened": "2024-06-05T01:03:48.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SkillViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\SkillViewModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\ViewModels\\SkillViewModel.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\SkillViewModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\ViewModels\\SkillViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:03:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "DevFreela.Application\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T01:03:27.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "DevFreelaDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Infrastructure\\Persistence\\DevFreelaDbContext.cs",
-              "RelativeDocumentMoniker": "DevFreela.Infrastructure\\Persistence\\DevFreelaDbContext.cs",
-              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Infrastructure\\Persistence\\DevFreelaDbContext.cs",
-              "RelativeToolTip": "DevFreela.Infrastructure\\Persistence\\DevFreelaDbContext.cs",
+              "Title": "GetUserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetUser\\GetUserQueryHandler.cs",
+              "RelativeToolTip": "DevFreela.Application\\Queries\\GetUser\\GetUserQueryHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:50:58.418Z",
+              "WhenOpened": "2024-06-05T01:03:19.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Project.cs",
-              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Core\\Entities\\Project.cs",
-              "RelativeDocumentMoniker": "DevFreela.Core\\Entities\\Project.cs",
-              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Core\\Entities\\Project.cs",
-              "RelativeToolTip": "DevFreela.Core\\Entities\\Project.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Title": "GetUserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
+              "RelativeToolTip": "DevFreela.Application\\Queries\\GetUser\\GetUserQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-04T22:50:51.86Z",
+              "WhenOpened": "2024-06-05T01:03:18.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllProjectsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "RelativeToolTip": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:59:27.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.API\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "DevFreela.API\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAQwBkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:53:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllProjectsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "RelativeToolTip": "DevFreela.Application\\Queries\\GetAllProjects\\GetAllProjectsQueryHandler.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAcwBAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T00:43:20.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "C:\\Users\\adsdo\\OneDrive\\Documentos\\MentoriaDotNet\\Formacao AspNet Core\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T23:55:24.574Z",
               "EditorCaption": ""
             }
           ]

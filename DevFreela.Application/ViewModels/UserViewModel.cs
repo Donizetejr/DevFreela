@@ -8,9 +8,8 @@ namespace DevFreela.Application.ViewModels
 {
     public class UserViewModel
     {
-        public UserViewModel(int id, string userName, string email)
+        public UserViewModel(string userName, string email)
         {
-            Id = id;
             UserName = userName;
             Email = email;
         }
